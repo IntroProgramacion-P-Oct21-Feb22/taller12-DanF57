@@ -23,7 +23,8 @@ public class Ejemplo00 {
 }
 ```
 #### Respuesta aquí
-
+Se tiene un arreglo de 4 elementos, se pide que se imprima la función misterio a la que se le envía el arreglo y el tamaño del arreglo. 
+Al entrar a la funcion misterio se hacen dos condiciones, una que si el tamaño es 1 se retorna el valor del arreglo en la posición cero, de lo contrario se retorna el valor del arreglo que está en la posición final más la función misterio con el mismo arreglo pero el tamaño disminuye en 1, así se terminan sumando todos los valores del arreglo principal del último al primero.  
 #### Fin respuesta
 
 ***
